@@ -1,6 +1,6 @@
 url_auth = "https://b2c.passport.rt.ru/account_b2c/page"
 
-valid_phone = '+79200555361'
+valid_phone = '+792005454555'
 long_number = '+792005553611'
 valid_mail = 'malevi4_13@mail.ru'
 valid_login = 'malevi413'
