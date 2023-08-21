@@ -24,5 +24,5 @@ valid_lastname = 'Жук'
 short_lastname = 'Л'
 latin_lastname = 'Levin'
 
-valid_reg_mail = 'gazov6ik@gmail.com'
-valid_reg_pass = 'Ardatov13'
+valid_reg_mail = 'gaz@gmail.com'
+valid_reg_pass = 'afdsdf'
